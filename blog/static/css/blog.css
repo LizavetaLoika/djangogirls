@@ -4,7 +4,7 @@ body {
 
 h1 a {
     color: #A789EF;
-    font-family: 'Lobster';
+    font-family: 'Mansalva', cursive;
     font-size: 36pt
 }
 .page-header {
@@ -24,7 +24,7 @@ h1 a {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Mansalva', cursive;
 }
 
 .date {
